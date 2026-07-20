@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"b356be1115e68c6f","x":120,"y":-420,"width":355,"height":501,"type":"text","text":"برای پروژه‌های واقعی معمولاً این الگو رایج است:\n\n- **FastAPI** → دریافت request\n- **Celery / Redis** → صف‌گذاری task\n- **Worker** → اجرای task\n- **LangGraph** → orchestration منطق agent\n- **PostgreSQL / Redis** → نگهداری state/result"}
+	],
+	"edges":[]
+}
