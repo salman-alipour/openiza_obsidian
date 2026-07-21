@@ -1,7 +1,11 @@
 {
 	"nodes":[
-		{"id":"d7e2c7c41ea55cef","type":"file","file":"R&D/برای یادگیری.md","x":-1620,"y":-780,"width":520,"height":400},
-		{"id":"01a281ba9491a5f9","type":"file","file":"R&D/Transformer.md","x":-1060,"y":-780,"width":480,"height":400}
+		{"id":"d7e2c7c41ea55cef","type":"file","file":"R&D/برای یادگیری.md","x":-1880,"y":-1060,"width":480,"height":400},
+		{"id":"01a281ba9491a5f9","type":"file","file":"R&D/Transformer.md","x":-1880,"y":-580,"width":480,"height":400},
+		{"id":"38d140d497d39d13","type":"text","text":"برای پروژه‌های واقعی معمولاً این الگو رایج است:\n\n- **FastAPI** → دریافت request\n- **Celery / Redis** → صف‌گذاری task\n- **Worker** → اجرای task\n- **LangGraph** → orchestration منطق agent\n- **PostgreSQL / Redis** → نگهداری state/result","x":-1880,"y":-140,"width":480,"height":460},
+		{"id":"2cf040f3f3f87f9a","type":"file","file":"R&D/Queue.md","x":-1320,"y":-1060,"width":520,"height":400},
+		{"id":"3f8258bf90e5e446","type":"file","file":"VPS/VPS نصب اولیه.md","x":-660,"y":-1060,"width":400,"height":400},
+		{"id":"830f71f25deba764","x":-1090,"y":-353,"width":250,"height":373,"type":"text","text":""}
 	],
 	"edges":[]
 }

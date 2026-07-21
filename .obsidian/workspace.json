@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc04f2d1231be7a",
+        "id": "e8f85a4ba122de2c",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ebd10c7d23cab4",
+            "id": "9e3a914ff7a29f74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Openiza.canvas",
-                "viewState": {
-                  "x": 297.5,
-                  "y": -169.5,
-                  "zoom": 0
-                }
+                "file": "E-commerce-bridge.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Openiza"
+              "icon": "lucide-file",
+              "title": "E-commerce-bridge"
             }
           }
         ]
@@ -186,16 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "adac77175bbbe4ca",
+  "active": "9e3a914ff7a29f74",
   "lastOpenFiles": [
-    "Queue.md",
-    "Untitled.md",
-    "VPS.canvas",
-    "Openiza.canvas",
+    "GapGPT.md",
+    "E-commerce-bridge.md",
     "R&D.canvas",
     "VPS/VPS نصب اولیه.md",
-    "VPS",
+    "R&D/Queue.md",
+    "Openiza.canvas",
+    "VPS.canvas",
     "R&D/برای یادگیری.md",
+    "VPS",
     "R&D/Transformer.md",
     "lazy.svg",
     "R&D",
