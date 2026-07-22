@@ -1,11 +1,19 @@
 {
 	"nodes":[
+		{"id":"ce8a4fc374d0178e","type":"group","x":-1320,"y":-560,"width":820,"height":440,"label":"E-commerce bridge"},
 		{"id":"d7e2c7c41ea55cef","type":"file","file":"R&D/برای یادگیری.md","x":-1880,"y":-1060,"width":480,"height":400},
 		{"id":"01a281ba9491a5f9","type":"file","file":"R&D/Transformer.md","x":-1880,"y":-580,"width":480,"height":400},
-		{"id":"38d140d497d39d13","type":"text","text":"برای پروژه‌های واقعی معمولاً این الگو رایج است:\n\n- **FastAPI** → دریافت request\n- **Celery / Redis** → صف‌گذاری task\n- **Worker** → اجرای task\n- **LangGraph** → orchestration منطق agent\n- **PostgreSQL / Redis** → نگهداری state/result","x":-1880,"y":-140,"width":480,"height":460},
 		{"id":"2cf040f3f3f87f9a","type":"file","file":"R&D/Queue.md","x":-1320,"y":-1060,"width":520,"height":400},
-		{"id":"3f8258bf90e5e446","type":"file","file":"VPS/VPS نصب اولیه.md","x":-660,"y":-1060,"width":400,"height":400},
-		{"id":"830f71f25deba764","x":-1090,"y":-353,"width":250,"height":373,"type":"text","text":""}
+		{"id":"38d140d497d39d13","type":"text","text":"برای پروژه‌های واقعی معمولاً این الگو رایج است:\n\n- **FastAPI** → دریافت request\n- **Celery / Redis** → صف‌گذاری task\n- **Worker** → اجرای task\n- **LangGraph** → orchestration منطق agent\n- **PostgreSQL / Redis** → نگهداری state/result","x":-1880,"y":-140,"width":480,"height":460},
+		{"id":"3f8258bf90e5e446","type":"file","file":"R&D/VPS نصب اولیه.md","x":-785,"y":-1060,"width":400,"height":200},
+		{"id":"df6319668866d47b","x":-340,"y":-1060,"width":400,"height":200,"type":"file","file":"R&D/Saas.md"},
+		{"id":"a1557cc4b3b8ed90","type":"file","file":"R&D/wordpress plugin API connector.md","x":-785,"y":-840,"width":520,"height":220},
+		{"id":"e267c1f604b2511e","type":"file","file":"R&D/DataBase.md","x":-240,"y":-830,"width":400,"height":340},
+		{"id":"bdc868cfc3ab77da","type":"text","text":"[[wordpress plugin API connector]]","x":-1260,"y":-500,"width":350,"height":60},
+		{"id":"57b71e7cb6c91806","type":"text","text":"Search console","x":-1260,"y":-410,"width":250,"height":60},
+		{"id":"56021695f2860b88","type":"text","text":"GA4","x":-1260,"y":-320,"width":250,"height":60},
+		{"id":"1975352d762c9555","type":"text","text":"Torob","x":-1260,"y":-230,"width":250,"height":60},
+		{"id":"6b9353673adb5274","type":"text","text":"Staging Area","x":-785,"y":-360,"width":250,"height":60}
 	],
 	"edges":[]
 }
